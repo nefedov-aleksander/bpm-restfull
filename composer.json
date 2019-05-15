@@ -18,9 +18,9 @@
         "phpunit/phpunit": "^5.5 || ^6.0"
     },
     "autoload": {
-        "psr-4": { "Github\\": "src/" }
+        "psr-4": { "BpmRestfull\\": "src/" }
     },
     "autoload-dev": {
-        "psr-4": { "Github\\Tests\\": "tests/"}
+        "psr-4": { "Tests\\": "tests/"}
     }
 }
